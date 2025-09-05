@@ -14,6 +14,7 @@ tab_width=3
 tab_use_spaces=1
 explorer_path=.
 inherits_from=
+current_source=main.cpp
 path_char=\
 [source]
 path=Animal.cpp
@@ -23,10 +24,12 @@ path=Gato.cpp
 cursor=0:0
 [source]
 path=main.cpp
-cursor=0:0
+cursor=4:0
+open=true
 [source]
 path=Mascota.cpp
 cursor=0:0
+open=true
 [source]
 path=Perro.cpp
 cursor=0:0
