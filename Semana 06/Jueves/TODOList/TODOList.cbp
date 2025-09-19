@@ -36,6 +36,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="App.cpp" />
+		<Unit filename="App.h" />
 		<Unit filename="Fecha.cpp" />
 		<Unit filename="Fecha.h" />
 		<Unit filename="Tarea.cpp" />
@@ -44,6 +46,8 @@
 		<Unit filename="TareaArchivo.h" />
 		<Unit filename="TareaManager.cpp" />
 		<Unit filename="TareaManager.h" />
+		<Unit filename="TareaMenu.cpp" />
+		<Unit filename="TareaMenu.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

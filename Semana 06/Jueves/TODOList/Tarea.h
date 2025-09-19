@@ -19,6 +19,9 @@ class Tarea
     void setCompletado(bool completado);
     bool getCompletado();
     
+    void setEliminado(bool eliminado);
+    bool getEliminado();
+    
     std::string toString();
 
   private:
@@ -27,4 +30,5 @@ class Tarea
     bool _completado;
     /// std::string _descripcion; /// very mal!
     char _descripcion[300];
+    bool _eliminado;
 };

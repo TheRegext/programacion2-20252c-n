@@ -47,9 +47,18 @@ bool Tarea::getCompletado(){
   return _completado;
 }
 
+void Tarea::setEliminado(bool eliminado){
+  _eliminado = eliminado;
+}
+
+bool Tarea::getEliminado(){
+  return _eliminado;
+}
+
 string Tarea::toString(){
   return to_string(_id) + 
   ", " + string(_descripcion) + 
   ", " + _fecha.toString() +
-  ", " + to_string(_completado);
+  ", " + to_string(_completado) +
+  ", " + to_string(_eliminado) ;
 }

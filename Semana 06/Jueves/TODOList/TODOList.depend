@@ -45,24 +45,24 @@
 	<iostream>
 	"App.h"
 
-1757632574 e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tarea.h
+1758238899 e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tarea.h
 	"Fecha.h"
 
-1757636760 e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tareaarchivo.h
+1758240586 e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tareaarchivo.h
 	<string>
 	"Tarea.h"
 
-1757636331 e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tareamanager.h
+1758239888 e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tareamanager.h
 	"TareaArchivo.h"
 
-1757632595 source:e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tarea.cpp
+1758238608 source:e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tarea.cpp
 	<cstring>
 	"Tarea.h"
 
-1757637735 source:e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tareaarchivo.cpp
+1758238214 source:e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tareaarchivo.cpp
 	"TareaArchivo.h"
 
-1757637184 source:e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tareamanager.cpp
+1758238452 source:e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tareamanager.cpp
 	<iostream>
 	<string>
 	"Tarea.h"
@@ -71,10 +71,14 @@
 1758232971 e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tareamenu.h
 	"TareaManager.h"
 
-1758233077 source:e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tareamenu.cpp
+1758239878 source:e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\tareamenu.cpp
 	<iostream>
 	"TareaMenu.h"
 
 1758233765 e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\app.h
 	"TareaMenu.h"
+
+1758233707 source:e:\github\educacion\utn\programacion2-20252c-n\semana 06\jueves\todolist\app.cpp
+	<iostream>
+	"App.h"
 
