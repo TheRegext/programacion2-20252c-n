@@ -34,6 +34,10 @@ public:
     Cadena & operator=(const Cadena &obj);
     bool operator==(Cadena &obj);
     char operator[](int pos);
+    bool operator==(Cadena aux);
+    void operator=(const string &aux);
+    bool operator==(string aux);
+    bool operator==(int _tam);
 
 
     ~Cadena(){
