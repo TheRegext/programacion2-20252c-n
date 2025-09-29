@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1758801099 source:c:\users\maxi_\desktop\ejercitacion 18-09\main.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"menus.h"
+
+1758803403 c:\users\maxi_\desktop\ejercitacion 18-09\menus.h
+
+1758803761 source:c:\users\maxi_\desktop\ejercitacion 18-09\menus.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoUsuarios.h"
+	"clsUsuario.h"
+	"clsArchivoJuegos.h"
+	"clsJuego.h"
+	"clsArchivoAccesos.h"
+	"clsAcceso.h"
+	"menus.h"
+
+1756901019 source:c:\users\maxi_\desktop\ejercitacion 18-09\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1756901282 c:\users\maxi_\desktop\ejercitacion 18-09\clsfecha.h
+
+1758722440 source:c:\users\maxi_\desktop\ejercitacion 18-09\clsjuegos.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"clsJuego.h"
+
+1758804831 c:\users\maxi_\desktop\ejercitacion 18-09\clsjuego.h
+	"clsFecha.h"
+
+1758723871 source:c:\users\maxi_\desktop\ejercitacion 18-09\clsusuario.cpp
+	<iostream>
+	<cstring>
+	"clsUsuario.h"
+	"cargarCadena.h"
+
+1758804831 c:\users\maxi_\desktop\ejercitacion 18-09\clsusuario.h
+	"clsFecha.h"
+
+1758722402 c:\users\maxi_\desktop\ejercitacion 18-09\cargarcadena.h
+
+1758723317 source:c:\users\maxi_\desktop\ejercitacion 18-09\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1758803681 source:c:\users\maxi_\desktop\ejercitacion 18-09\clsacceso.cpp
+	<iostream>
+	<cstring>
+	"clsAcceso.h"
+
+1758804831 c:\users\maxi_\desktop\ejercitacion 18-09\clsacceso.h
+	"clsFecha.h"
+
+1758723317 source:c:\users\maxi_\desktop\ejercitacion 18-09\clsarchivojuegos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoJuegos.h"
+
+1758722600 source:c:\users\maxi_\desktop\ejercitacion 18-09\clsarchivousuarios.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoUsuarios.h"
+
+1758718698 c:\users\maxi_\desktop\ejercitacion 18-09\clsarchivousuarios.h
+	"clsUsuario.h"
+
+1758718698 c:\users\maxi_\desktop\ejercitacion 18-09\clsarchivojuegos.h
+	"clsJuego.h"
+
+1758723613 source:c:\users\maxi_\desktop\ejercitacion 18-09\clsaccesos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoAccesos.h"
+
+1758718698 c:\users\maxi_\desktop\ejercitacion 18-09\clsarchivoaccesos.h
+	"clsAcceso.h"
+
+1758724211 source:c:\users\maxi_\desktop\ejercitacion 18-09\clsjuego.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"clsJuego.h"
+
+1758723317 source:c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\cargarcadena.cpp
+	<iostream>
+	<cstring>
+
+1758803681 source:c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsacceso.cpp
+	<iostream>
+	<cstring>
+	"clsAcceso.h"
+
+1758804831 c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsacceso.h
+	"clsFecha.h"
+
+1756901282 c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsfecha.h
+
+1758723613 source:c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsaccesos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoAccesos.h"
+
+1758718698 c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsarchivoaccesos.h
+	"clsAcceso.h"
+
+1758723317 source:c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsarchivojuegos.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoJuegos.h"
+
+1758718698 c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsarchivojuegos.h
+	"clsJuego.h"
+
+1758804831 c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsjuego.h
+	"clsFecha.h"
+
+1756901019 source:c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsfecha.cpp
+	<iostream>
+	"clsFecha.h"
+
+1758724211 source:c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsjuego.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"clsJuego.h"
+
+1758722402 c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\cargarcadena.h
+
+1759182466 source:c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\main.cpp
+	<iostream>
+	<cstring>
+	"cargarCadena.h"
+	"menus.h"
+
+1759184555 c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\menus.h
+
+1759182358 source:c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\menus.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoUsuarios.h"
+	"clsUsuario.h"
+	"clsArchivoJuegos.h"
+	"clsJuego.h"
+	"clsArchivoAccesos.h"
+	"clsAcceso.h"
+	"menus.h"
+
+1758718698 c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsarchivousuarios.h
+	"clsUsuario.h"
+
+1759184049 c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsusuario.h
+	"clsFecha.h"
+
+1758816014 source:c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsarchivousuarios.cpp
+	<iostream>
+	<cstring>
+	"clsArchivoUsuarios.h"
+
+1759184049 source:c:\users\maxi_\documents\programación 2\2025\2c\clases\lunes\ejercitacion 18-09\clsusuario.cpp
+	<iostream>
+	<cstring>
+	"clsUsuario.h"
+	"cargarCadena.h"
+
