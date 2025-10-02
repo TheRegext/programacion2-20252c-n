@@ -11,7 +11,7 @@ int main()
   nlohmann::json data;
   // Fruta frutas[100];
 
-  response = cliente.get("https://www.fruityvice.com/api/fruit/all");
+  response = cliente.get("https://raw.githubusercontent.com/TheRegext/programacion2-20252c-n/refs/heads/main/Semana%2008/Jueves/frutas.json");
   data = nlohmann::json::parse(response);
 
   Fruta *frutas;
@@ -31,7 +31,7 @@ int main()
     cout << "------" << endl;
   }
 
-
+  
 
 
   delete [] frutas;

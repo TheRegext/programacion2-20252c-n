@@ -31,7 +31,17 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
+			<Add directory="curl/include" />
 		</Compiler>
+		<Linker>
+			<Add library="curl/lib/libcurl.dll.a" />
+			<Add directory="curl/lib" />
+		</Linker>
+		<Unit filename="Fruta.cpp" />
+		<Unit filename="Fruta.h" />
+		<Unit filename="HttpClient.cpp" />
+		<Unit filename="HttpClient.h" />
+		<Unit filename="json.hpp" />
 		<Unit filename="main.cpp" />
 		<Extensions />
 	</Project>
